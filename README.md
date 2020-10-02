@@ -1,6 +1,10 @@
 # Musk-and-Non-Musk-Chemical-Compounds-Prediction
 
-Task: The given dataset contains details about organic chemical compounds including their chemical features, isomeric conformation, names
+It's a classification problem with highly imbalance data ,that is needed to be balance and cleaned.
+
+Task :-
+
+The given dataset contains details about organic chemical compounds including their chemical features, isomeric conformation, names
 and the classes in which they are classified. The compounds are classified as either ‘Musk’ or ‘Non-Musk’ compounds. Your task is to build 
 a classification model on the given data using any Deep Learning approach that you deem appropriate viz. Multi-Layer Perceptron, CNN, RNN,
 etc. or you could also use transfer learning approaches through selection of appropriate pre-trained model. The data has to be split in a
